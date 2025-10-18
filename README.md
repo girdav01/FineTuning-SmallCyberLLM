@@ -7,9 +7,6 @@ Références mentionnées dans la présentation
 
 https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/
 
-<img width="1056" height="53" alt="image" src="https://github.com/user-attachments/assets/be1259e2-a0b9-4a5a-a7e8-d4699c65a9cd" />
-
-
 Liens utiles pour les datasets et ressources
 https://github.com/shramos/Awesome-Cybersecurity-Datasets​
 
